@@ -1,4 +1,4 @@
-# README: Python Exercises
+# README: CELL 02
 
 Welcome to the Python exercises repository! This README provides details about the exercises and files included in this directory. These exercises are designed to help you practice basic Python concepts such as input handling, conditionals, and arithmetic operations.
 
