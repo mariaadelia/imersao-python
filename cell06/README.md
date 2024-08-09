@@ -1,4 +1,4 @@
-# README: Python Exercises
+# README: Cell 06
 
 Welcome to the Python exercises repository! This README provides an overview of the exercises included in this directory. These exercises focus on functions, string manipulation, argument handling, and scope in Python.
 
