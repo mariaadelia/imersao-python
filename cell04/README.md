@@ -1,5 +1,4 @@
-# README: Python Exercises
-
+# README: CELL 04
 Welcome to the Python exercises repository! This README provides details about the exercises and files included in this directory. These exercises are designed to help you practice fundamental Python concepts, including string manipulation, input handling, arithmetic operations, and type conversions.
 
 ## Table of Contents
