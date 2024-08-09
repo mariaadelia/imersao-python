@@ -1,4 +1,4 @@
-# CELL 00
+# README: CELL 00
 
 Welcome to the basic Python exercises repository! This README provides information about the two exercises included in this file. These exercises are designed to help you get started with Python programming by practicing basic print statements.
 
